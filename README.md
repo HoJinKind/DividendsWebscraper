@@ -9,4 +9,4 @@ The reason for that is that you have to wait for corporations to declare the div
 
 For example, the S&P500 dividend aristocrats index does not include the special dividend in their calculation for annual increases.
 
-By using webscraping on dividends.sg, i can now get hold and track the amount of dividends collected when i sell the share, once again tracking my investments with ease by using getDividends("yyyy-mm-dd","C31") where the date is date of purchase. a more proper solution would take in a second date which is date of selling, which could be set to today if yet to sell
+By using webscraping on dividends.sg, i can now get hold and track the amount of dividends collected when i sell the share, once again tracking my investments with ease by using getDividends("yyyy-mm-dd","C31") where the date is date of purchase. a more proper solution would take in a second date which is date of selling, which could be set to today if yet to sell.(note- change has been made, and it can do so now)
